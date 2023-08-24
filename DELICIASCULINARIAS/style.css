@@ -1,0 +1,55 @@
+/*estilos generales*/
+.body{
+    font-family:Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/*barra de navegacion*/
+.barradenavegacion{
+   
+   background-color: rgb(175, 40, 202);
+    padding: .5rem;
+    box-shadow: 1px 2px 10px rgb(255, 0, 140);
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 999;
+
+}
+.nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.nav li{
+  margin-right: 1rem;
+
+}
+nav a{
+    text-decoration: rgb(236, 64, 64);
+    color: rgb(0, 0, 0);
+}
+.titulo{
+    background-color: rgb(248, 26, 26);
+    display: flex;
+    justify-content: center;
+}
+.texto{
+    left: 2rem;
+    right: 4rem;
+    align-items: center;
+}
+.plato1{
+   
+
+}
+   
+.img1{
+    
+    
+    
+}
+.plato2{
+
+}
